@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\Gabriel\Documents\Program Projects\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
